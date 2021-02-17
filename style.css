@@ -1,0 +1,47 @@
+body {
+  font-family: "Oswald",sans-serif;
+  text-align: center;
+  background-image: url(images/fundo.jpg);
+  background-size: cover;
+  color: white;
+}
+h1	{
+	font-size:55px;
+	padding-top:190px;
+	text-shadow: 1px 1px 1px white;
+	margin-bottom: 50px;
+}
+p{
+	font-size: 30px;
+	padding-bottom: 50px;
+}
+
+.buton	{
+	text-decoration: none;
+	background-color: #9370DB;
+	color: white;
+	font-size: 19px;
+	padding: 8px 10px 8px 10px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+.buton:hover {
+	background-color: #000080;
+	color: white;
+}
+
+.list	{
+	list-style: none;
+	padding-left:0;
+	margin-top:190px;
+}
+
+.list	li{
+	display: inline;
+}
+
+.list a{
+	color: white;
+	font-size: 30px;
+}
+
